@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1001,
+        "nombre": "Cesar",
+        "apellido": "Lopez",
+        "edad": 24
+    },
+    {
+        "id": 1002,
+        "nombre": "Alberto",
+        "apellido": "Nieves",
+        "edad": 24
+    },
+    {
+        "id": 1003,
+        "nombre": "Jazmin",
+        "apellido": "Lopez",
+        "edad": 24
+    },
+    {
+        "id": 1004,
+        "nombre": "Dionicio",
+        "apellido": "Garcia",
+        "edad": 24
+    },
+    {
+        "id": 1005,
+        "nombre": "Loki",
+        "apellido": "Dog",
+        "edad": 24
+    },
+    {
+        "id": 1006,
+        "nombre": "Ani",
+        "apellido": "Kila",
+        "edad": 24
+    }
+]
